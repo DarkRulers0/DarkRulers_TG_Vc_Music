@@ -107,6 +107,6 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 # Special Credits
 - Kaalia
-- Omm
-- Yanna
+- Omm💣
+- Yanna👋
 <h1> Thankyou For Using This Repository For Your Music Bot </h>
