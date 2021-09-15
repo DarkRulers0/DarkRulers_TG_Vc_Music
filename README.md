@@ -20,7 +20,7 @@ Host your own Telegram Music Bot ⬇️
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @OmegaXKing
+(C) @DarkRulers0
 
 ```
 
