@@ -36,7 +36,7 @@ Made with Python3
 
 - Get BOT TOKEN from here:  [![Get Bot Token from BotFather](https://img.shields.io/badge/Bot__-Token-blue)](https://t.me/BotFather)
 
-- Get UDO USERS from here:  [![Get Sudo Users Id](https://img.shields.io/badge/Sudo__-USERS-blue)](https://t.me/MissRose_bot)  [Send /id]
+- Get UDO USERS from here:  [![Get Sudo Users Id](https://img.shields.io/badge/Sudo__-USERS-red)](https://t.me/MissRose_bot)  [Send /id]
 
 - Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/Repl.it-Generate%20String-yellow)](https://replit.com/@Darkrulers/DarkRulers?v=1)
 
