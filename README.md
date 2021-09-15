@@ -105,5 +105,8 @@ If you donlt like to play in linked channel:
 - `.a` - approove someone to pm you
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
-
+# Special Credits
+- Kaalia
+- Omm
+- Yanna
 <h1> Thankyou For Using This Repository For Your Music Bot </h>
