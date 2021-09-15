@@ -6,7 +6,7 @@ Host your own Telegram Music Bot ⬇️
   </p>
  <h3>Deploy to Heroku click the blow button ⬇️ </h>
  
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DarkRulers0/AxeVcPlayer">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DarkRulers0/DarkRulers_TG_Vc_Music">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"width="200" height="50">
   </a></p>
 
